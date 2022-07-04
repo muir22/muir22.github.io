@@ -1,2 +1,3 @@
-# muir22.github.io
-This repo is the MuIR Challenge website
+# muir2022.github.io
+
+This is the website for the MuIR Challenge 2022
